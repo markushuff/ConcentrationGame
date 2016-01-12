@@ -1,0 +1,12 @@
+Package: ConcentrationGame
+Type: Package
+Title: Simulating the "Concentration"" game ("memory" in German)
+Version: 0.1
+Date: 2016-01-11
+Author: Markus Huff, Frank Papenmeier
+Maintainer: Markus Huff <markus.huff@gmail.com>
+Description: This R-package allows the simulation of the popular "Concentration"
+    game in a single player mode.
+License: Copyfree
+LazyData: TRUE
+RoxygenNote: 5.0.1
