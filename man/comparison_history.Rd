@@ -2,12 +2,14 @@
 % Please edit documentation in R/comparison_history.R
 \name{comparison_history}
 \alias{comparison_history}
-\title{Compare to a single card with history (working memory), else take second card}
+\title{Compare a single card (turn_1) with the history (working memory), 
+else take second card}
 \usage{
 comparison_history(turn_1, set, set_before_turn_1, history)
 }
 \description{
-Compare to a single card with history (working memory), else take second card
+Compare a single card (turn_1) with the history (working memory), 
+else take second card
 }
 \author{
 Markus Huff
