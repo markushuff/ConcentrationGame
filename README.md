@@ -11,3 +11,4 @@ It is also possible to simulate the game without the usage of a working memory (
 Binaries are available:
 
 [Version 0.1](https://www.dropbox.com/s/ctce80hwu1tw06o/ConcentrationGame_0.1.tgz?dl=0)
+[Version 0.2](https://www.dropbox.com/s/ztlig9066rfwqm6/ConcentrationGame_0.2.tgz?dl=0)
