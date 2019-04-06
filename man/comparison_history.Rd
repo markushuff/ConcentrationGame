@@ -14,4 +14,3 @@ else take second card
 \author{
 Markus Huff
 }
-

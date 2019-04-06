@@ -7,8 +7,13 @@ The main program is concentration_game(). With its default values it simulates 1
 
 It is also possible to simulate the game without the usage of a working memory (capacity = 0).
 
-## Binaries
-Binaries are available:
+## Current version
 
-[Version 0.1](https://www.dropbox.com/s/ctce80hwu1tw06o/ConcentrationGame_0.1.tgz?dl=0)
-[Version 0.2](https://www.dropbox.com/s/ztlig9066rfwqm6/ConcentrationGame_0.2.tgz?dl=0)
+0.2.1: Fixed encoding problems (UTF-8), added description how to install directly from GitHub
+
+## Installation directly from github
+
+    install.packages("devtools") 
+    library("devtools") 
+    install_github("markushuff/ConcentrationGame")
+    library(ConcentrationGame)

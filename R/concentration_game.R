@@ -20,10 +20,9 @@ concentration_game <-
                  A_B = character(0),
                  id = numeric(0))
     history_null <- history
-    trial <- 0 # Anzahl an Zügen pro Durchgang
+    trial <- 0 # Anzahl an Zuegen pro Durchgang
     
-    # Vektor mit Anzahl an Zügen
-    
+    # Vektor mit Anzahl an Zuegen
     num_turns <- numeric(0)
     
     for (i in 1:num_simulations)

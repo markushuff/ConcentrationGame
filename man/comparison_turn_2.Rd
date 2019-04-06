@@ -12,4 +12,3 @@ Compare two cards
 \author{
 Markus Huff
 }
-

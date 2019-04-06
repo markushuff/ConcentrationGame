@@ -12,4 +12,3 @@ Reduce history to working memory capacity
 \author{
 Markus Huff
 }
-

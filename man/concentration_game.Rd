@@ -22,4 +22,3 @@ Simulation of the concentration game
 \author{
 Markus Huff
 }
-

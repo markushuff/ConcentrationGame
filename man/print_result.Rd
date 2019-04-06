@@ -12,4 +12,3 @@ Print the current result of the simulation
 \author{
 Markus Huff
 }
-

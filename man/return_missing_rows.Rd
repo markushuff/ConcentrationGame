@@ -12,4 +12,3 @@ Compare two data frames and return those rows that are missing in the second one
 \author{
 Markus Huff
 }
-
